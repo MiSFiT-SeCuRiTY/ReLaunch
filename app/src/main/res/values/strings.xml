@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ReLaunch</string>
+    <string name="app_tagline">Open the system power menu without your power button</string>
+
+    <string name="accessibility_service_label">ReLaunch Power Menu</string>
+    <string name="accessibility_service_description">ReLaunch uses this service to ask Android to open the system power menu. It does not read your screen, type for you, or monitor any activity.</string>
+
+    <string name="status_ready">Ready to open power menu</string>
+    <string name="status_accessibility_needed">Accessibility permission required</string>
+    <string name="status_accessibility_hint">Enable ReLaunch in Settings → Accessibility</string>
+    <string name="status_unavailable">Feature not available on this device</string>
+
+    <string name="toggle_diagnostics">Show diagnostics</string>
+    <string name="developer_credit">Developed by MiSFiT-SeCuRiTY</string>
+
+    <string name="open_accessibility_settings">Open Accessibility Settings</string>
+</resources>
